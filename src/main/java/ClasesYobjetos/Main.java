@@ -17,7 +17,7 @@ public class Main {
         
         //Invocar los métodos de la clase
         misOperaciones.leerNumeros();
-        misOperaciones.sumar();
+        misOperaciones.sumar(10,5);
         misOperaciones.restar();
         misOperaciones.multiplicar();
         misOperaciones.dividir();

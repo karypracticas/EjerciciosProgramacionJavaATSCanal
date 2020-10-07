@@ -28,8 +28,8 @@ public class Operacion {
         numero2 = Integer.parseInt(JOptionPane.showInputDialog("Ingresa el segundo número: "));
     }
     
-    public void sumar(){
-        suma = numero1 + numero2;
+    public void sumar(int num1,int num2){
+        suma = num1 + num2;
     }
     
     public void restar(){
